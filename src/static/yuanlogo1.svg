@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0464e0;
+      }
+
+      .cls-2 {
+        fill: #fa5151;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 20px;
+        font-family: YouSheBiaoTiHei;
+      }
+
+      .cls-4 {
+        font-size: 10px;
+        font-family: PingFang SC Medium, PingFang SC;
+      }
+    </style>
+  </defs>
+  <g id="组_955" data-name="组 955" transform="translate(-717 -1536)">
+    <circle id="椭圆_81" data-name="椭圆 81" class="cls-1" cx="36" cy="36" r="36" transform="translate(717 1536)"/>
+    <path id="交叉_12" data-name="交叉 12" class="cls-2" d="M888.062,56c6.458-4.824,17.457-8,29.938-8s23.479,3.177,29.938,8a36.008,36.008,0,0,1-59.875,0Z" transform="translate(-165.063 1536)"/>
+    <text id="屋掌柜" class="cls-3" transform="translate(753 1574)"><tspan x="-27.6" y="0">屋掌柜</tspan></text>
+    <text id="经纪人" class="cls-4" transform="translate(738 1599)"><tspan x="0" y="0">经纪人</tspan></text>
+  </g>
+</svg>

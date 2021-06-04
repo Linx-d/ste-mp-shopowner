@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #f5741d;
+      }
+
+      .cls-3 {
+        opacity: 0.5;
+      }
+
+      .cls-4 {
+        opacity: 0.8;
+      }
+    </style>
+  </defs>
+  <g id="组_921" data-name="组 921" transform="translate(1 -1817)">
+    <rect id="矩形_927" data-name="矩形 927" class="cls-1" width="44" height="44" transform="translate(-1 1817)"/>
+    <g id="组_641" data-name="组 641" transform="translate(-213 1705)">
+      <rect id="矩形_660" data-name="矩形 660" class="cls-2" width="24" height="30" rx="4" transform="translate(222 119)"/>
+      <rect id="矩形_661" data-name="矩形 661" class="cls-3" width="18" height="9" rx="2" transform="translate(225 123)"/>
+      <rect id="矩形_662" data-name="矩形 662" class="cls-4" width="8" height="2" rx="1" transform="translate(225 139)"/>
+      <rect id="矩形_664" data-name="矩形 664" class="cls-4" width="8" height="2" rx="1" transform="translate(235 137)"/>
+      <rect id="矩形_665" data-name="矩形 665" class="cls-4" width="8" height="2" rx="1" transform="translate(235 141)"/>
+      <rect id="矩形_663" data-name="矩形 663" class="cls-4" width="8" height="2" rx="1" transform="translate(228 144) rotate(-90)"/>
+    </g>
+  </g>
+</svg>

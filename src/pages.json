@@ -1,0 +1,202 @@
+{
+	"pages": [
+		
+		{
+			"path": "pages/root/root"
+		},
+		{
+			"path": "pages/root/300"
+		},
+		{
+			"path": "pages/root/500"
+		},
+		{
+			"path": "pages/report/report"
+		},
+		{
+			"path": "pages/register/register"
+		},
+		{
+			"path": "pages/register/invitation"
+		},
+		{
+			"path": "pages/index/index",
+			"style":{
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/index/task/location/location"
+		},
+		{
+			"path": "pages/index/task/search/search"
+		},
+		{
+			"path": "pages/index/task/search/result",
+			"style":{
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/task/detail"
+		},
+		{
+			"path": "pages/task/project"
+		
+		},
+		{
+			"path": "pages/task/news"
+
+		},
+		{
+			"path": "pages/task/room"
+		},
+		{
+			"path": "pages/task/album"
+		},
+		{
+			"path": "pages/task/licence"
+		},
+		{
+			"path": "pages/index/workbench/report/report",
+			"style":{
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/index/workbench/report/report-detail",
+			"style":{
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/index/workbench/report/report-evidence"
+		},
+		{
+			"path": "pages/index/workbench/contract/contract",
+			"style":{
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/index/workbench/calculators/index"
+		},
+		{
+			"path": "pages/index/workbench/calculators/result"
+		},
+		{
+			"path": "pages/index/workbench/commission/commission"
+		},
+		{
+			"path": "pages/index/workbench/commission/list",
+			"style":{
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/index/workbench/commission/apply"
+		},
+		{
+			"path": "pages/index/workbench/commission/detail"
+		},
+		{
+			"path": "pages/index/workbench/messages/messages"
+		},
+		{
+			"path": "pages/index/workbench/switch"
+		},
+		{
+			"path": "pages/index/client/detail"
+		},
+		{
+			"path": "pages/index/client/add"
+		},
+		{
+			"path": "pages/index/client/audit",
+			"style":{
+				"enablePullDownRefresh":true
+			}
+		},
+		
+		{
+			"path": "pages/report/reportInfo"
+		},		
+		
+		{
+			"path": "pages/index/profile/subscribe"
+		},
+		{
+			"path": "pages/index/profile/detail"
+		},
+		{
+			"path": "pages/index/profile/invitation"
+		},
+		{
+			"path": "pages/bank/bank"
+		},
+		{
+			"path": "pages/bank/create"
+		},
+		{
+			"path": "pages/index/workbench/result"
+		},
+		{
+			"path": "pages/index/workbench/messages/messageDetail",
+			"style":{
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/report/selectClient",
+			"style":{
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/register/agreement"
+		},
+		{
+			"path": "pages/report/selectHouse",
+			"style":{
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/index/profile/subscription",
+			"style":{
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/media/video",
+			"style":{
+				"backgroundColor": "#000000"
+			}
+		},
+		{
+			"path": "pages/index/workbench/report/report-search",
+			"style":{
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/index/workbench/contract/contract-search",
+			"style":{
+				"enablePullDownRefresh":true
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarBackgroundColor": "#0081ff",
+		"backgroundColor": "#F1F1F1",
+		"navigationStyle": "custom",
+		 "navigationBarTextStyle": "black"
+	},
+	"easycom": {
+		"autoscan": true,
+		"custom": {
+			"^app-(.*)": "@/components/app-$1.vue",
+			"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+		}
+	}
+}
